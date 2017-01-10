@@ -1,5 +1,5 @@
 {
-    "name": "sminnee/silverstripe-apikey",
+    "name": "fspringveldt/silverstripe-apikey",
     "description": "API Key management for SilverStripe",
     "type": "silverstripe-module",
     "require": {
